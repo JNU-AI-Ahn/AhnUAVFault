@@ -1,0 +1,1 @@
+The dataset provided in “A Labeled UAV Fault Diagnosis Dataset from Real Flight Experiments for AI-Based Anomaly Detection” constitutes the experimental result of the study and serves as training data for AI models in UAV anomaly detection.
